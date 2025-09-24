@@ -1,0 +1,6 @@
+print("WELCOME USER ")
+name = input("Please Enter Your Name: ")
+print("Hello " + name )
+age = input("How old are you " + name +  ":")
+print("You are " + age + " years old")
+print("your name has " + str(len(name )) + " characters")
